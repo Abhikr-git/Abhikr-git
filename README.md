@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://abhikr-git.github.io/my-portfolio-website/](https://abhikr-git.github.io/my-portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://abhikr-git.github.io/abhishekkrPortfolio.github.io/](https://abhikr-git.github.io/abhishekkrPortfolio.github.io/)
 
 - 💬 Ask me about **Html5, css3, JavaScript**
 
